@@ -30482,7 +30482,7 @@ $S:2}
 A.aDq.prototype={
 $1(a){var s=A.dq().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"/canvaskit/":s)+a},
+return(s==null?"/hush-web/canvaskit/":s)+a},
 $S:73}
 A.Pd.prototype={
 gq(a){var s=this.a
